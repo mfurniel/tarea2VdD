@@ -15,3 +15,6 @@ Realice las siguientes actividades:
 6. Con el dataset (C), realice un Word Cloud del libro "La Metamorfosis", de Franz Kafka. Excluya palabras destacadas que no correspondan a verbos, adjetivos o sustantivos.
 
 Se entrega un Jupyter Notebook, más un PDF con el resultado de la ejecución, para cotejar en caso de problemas en la revisión. No olviden considerar los requerimientos de buen uso de colores y texto.
+
+# Resultados
+## Ejercicio1
