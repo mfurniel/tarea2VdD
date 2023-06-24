@@ -18,3 +18,19 @@ Se entrega un Jupyter Notebook, más un PDF con el resultado de la ejecución, p
 
 # Resultados
 ## Ejercicio1
+![Logo1 de mi proyecto](https://github.com/mfurniel/tarea2VdD/blob/master/graficos_imagenes/ejercicio1.png)
+
+## Ejercicio2
+![Logo2 de mi proyecto](https://github.com/mfurniel/tarea2VdD/blob/master/graficos_imagenes/ejercicio2.png)
+
+## Ejercicio3
+![Logo3 de mi proyecto](https://github.com/mfurniel/tarea2VdD/blob/master/graficos_imagenes/ejercicio3.png)
+
+## Ejercicio4
+![Logo4 de mi proyecto](https://github.com/mfurniel/tarea2VdD/blob/master/graficos_imagenes/ejercicio4.png)
+
+## Ejercicio5
+![Logo5 de mi proyecto](https://github.com/mfurniel/tarea2VdD/blob/master/graficos_imagenes/ejercicio5.png)
+
+## Ejercicio6
+![Logo6 de mi proyecto](https://github.com/mfurniel/tarea2VdD/blob/master/graficos_imagenes/ejercicio6.png)
